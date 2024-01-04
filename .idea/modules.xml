@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$USER_HOME$/Downloads/Attendance2/.idea/Attendance2.iml" filepath="$USER_HOME$/Downloads/Attendance2/.idea/Attendance2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/AttendanceAI.iml" filepath="$PROJECT_DIR$/.idea/AttendanceAI.iml" />
+      <module fileurl="file://$USER_HOME$/Downloads/Project/.idea/Project.iml" filepath="$USER_HOME$/Downloads/Project/.idea/Project.iml" />
+    </modules>
+  </component>
+</project>
